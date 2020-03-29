@@ -7,3 +7,34 @@ h1{
     border-radius: 10px;
     box-shadow: 5px 5px 10px grey;
 }
+#transaction-area{
+    display: none;
+}
+.status{
+    color: white;
+    padding: 40px 20px;
+    margin: 50px 60px;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: rgb(74, 201, 243);
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: mediumslateblue;
+}
+
+.save{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    padding: 50px 50px;
+    margin: 10px 5px 0px 50px;
+}
+.take{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    padding: 50px 50px;
+    margin: 10px 50px 0px 5px;
+}
